@@ -1,0 +1,13 @@
+.DS_Store
+._.DS_Store
+
+.idea
+__pycache__
+venv
+
+build
+*.egg-info
+
+*.iml
+*.xml
+*.ipynb_checkpoints

@@ -1,0 +1,10 @@
+# CUDA not available on MacOS - for development only 
+name: kalman-mac
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pytorch
+  - pip:
+    - codetiming
